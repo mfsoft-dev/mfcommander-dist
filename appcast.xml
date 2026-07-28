@@ -1,15 +1,6 @@
-<?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <item>
-            <title>0.1.0</title>
-            <pubDate>Tue, 28 Jul 2026 14:10:39 +0000</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/mfsoft-dev/mfcommander-dist/releases/download/v0.1.0/MFCommander-0.1.0.dmg" length="31622876" type="application/octet-stream" sparkle:edSignature="7MW/a1eWO30lYeTWct1Tm3OJN4HTfwncfcH0HC6mj9UIkh8LhvLBqqZOOXXmec3gqfjDjaVwuNn8+5N3ZQ0hDw==" />
-        </item>
     <title>MFCommander updates</title>
     <link>https://mfsoft-dev.github.io/mfcommander-dist/appcast.xml</link>
     <description>MFCommander stable updates</description>
