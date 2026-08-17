@@ -2,6 +2,15 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <item>
+            <title>0.2.2</title>
+            <pubDate>Mon, 17 Aug 2026 19:36:26 +0000</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/mfsoft-dev/mfcommander-dist/releases/download/v0.2.2/MFCommander-0.2.2.dmg" length="36671200" type="application/octet-stream" sparkle:edSignature="VaIJurszsgRkIw7KGkcBXKbgY1yt4xbOHZ+AZyLltHW1daiilwvss0p68IL2jyRLek1DiRjBQalrf1/zMRpiAA==" />
+        </item>
+    <item>
             <title>0.2.1</title>
             <pubDate>Sun, 16 Aug 2026 04:28:34 +0000</pubDate>
             <sparkle:version>12</sparkle:version>
