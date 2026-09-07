@@ -18,7 +18,3 @@ Issues are public. Remove passwords, tokens, license keys, and personal informat
 MFCommander is a native macOS dual-pane file manager for local and remote files. Browse, copy, and organize files, and view huge text files without loading the entire file into memory.
 
 Visit [mfsoft.dev](https://mfsoft.dev) to learn more and download MFCommander.
-
-## Releases and Updates
-
-This repository also hosts the MFCommander Sparkle update feed on GitHub Pages and immutable, versioned DMG assets under [Releases](https://github.com/mfsoft-dev/mfcommander-dist/releases). The application source repository is private.
